@@ -1,1 +1,1 @@
-Read Me for bare repo excercice
+Read Me for bare repo excercise
